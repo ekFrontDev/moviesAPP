@@ -1,0 +1,21 @@
+.card-list {
+	border: solid 2 px red;
+	font-size: 18px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 10px;
+	background-color: rgba(255, 255, 255, 1);
+	min-height: 100vh;
+	max-width: 1010px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.ant-alert {
+	width: 70vh;
+	margin: 0 auto;
+}
+
+.ant-alert-content {
+	text-align: center;
+}

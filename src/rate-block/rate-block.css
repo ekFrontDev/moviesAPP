@@ -1,0 +1,33 @@
+.rate-block {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin: 10px 9px auto auto;
+}
+
+.rate-block-text {
+	display: inline-block;
+	height: 30px;
+	line-height: 30px;
+	vertical-align: middle;
+	font-size: 12px;
+}
+
+.rate-block-border-red {
+	border: 2px solid #E90000;
+}
+
+.rate-block-border-orange {
+	border: 2px solid #E97E00;
+}
+
+.rate-block-border-yellow {
+	border: 2px solid #E9D100;
+}
+
+.rate-block-border-green {
+	border: 2px solid #66E900;
+}
